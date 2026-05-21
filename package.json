@@ -1,6 +1,11 @@
-{ 
-  "type" : "module",
+{
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "vitest"
+  },
   "dependencies": {
-    "dayjs": "^1.11.20"
+    "dayjs": "^1.11.20",
+    "vitest": "^4.1.7"
   }
 }
