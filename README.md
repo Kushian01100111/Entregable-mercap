@@ -24,7 +24,7 @@ Se asumió que las llamadas no duran más de 24 horas, ya que no sería un caso 
 
 Para llamadas locales, la tarifa cambia según el horario:
 
-- Tarifa baja fuera de la franja 08:00 - 20:00.
+- Tarifa baja fuera de la franja 08:00 - 20:00 en dias hábiles, y todo el dia para sabados y domingos.
 - Tarifa alta dentro de la franja 08:00 - 20:00 en días hábiles.
 
 Si una llamada local cruza de un día a otro, se calcula cuántos minutos caen dentro de la franja de tarifa alta y el resto se cobra como tarifa baja.
